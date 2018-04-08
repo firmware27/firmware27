@@ -17,6 +17,8 @@ var disqus_url = disqus_blogger_current_url;
         comment_block.appendChild(disqus_div);
         comment_block.style.display = 'block';
         var dsq = document.createElement('script');
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.body).appendChild(dsq);
     }
 })();
