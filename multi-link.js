@@ -23,7 +23,7 @@ if(x=="1"){xxx="/p/data0.html"}
 if(x=="2"){xxx="/p/data1.html"}
 if(x=="3"){xxx="/p/data2.html"}
 if(x=="4"){xxx="/p/data3.html"}
-if(x=="5"){xxx="/p/data4.html"}a_to_ve[i].href="http://www.firmware27.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/p/data4.html"}a_to_ve[i].href="http://cloud.fw27.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
