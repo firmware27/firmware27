@@ -19,16 +19,11 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*10+ 1);var xxx=null;
-if(x=="1"){xxx="/2018/01/the-dazling-samsung-galaxy-s6-edge.html"}
-if(x=="2"){xxx="/2018/01/samsung-galaxy-s7-price-and-full.html"}
-if(x=="3"){xxx="/2018/01/the-best-samsung-smartphone-for-gaming.html"}
-if(x=="4"){xxx="/2018/01/best-smartphone-phone-for-camera-in-2018.html"}
-if(x=="5"){xxx="/2018/01/iphone-8-price-and-specification-2018.html"}
-if(x=="6"){xxx="/2018/01/iphone-7-price-and-specification-in.html"}
-if(x=="7"){xxx="/2018/01/best-smartphone-for-photography.html"}
-if(x=="8"){xxx="/2018/01/best-smartphone-for-vlogging.html"}
-if(x=="9"){xxx="/2018/01/best-smartphone-for-music.html"}
-if(x=="10"){xxx="/2018/01/best-smartphone-for-video.html"}a_to_ve[i].href="https://cloud.fw27.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/p/data0.html"}
+if(x=="2"){xxx="/p/data1.html"}
+if(x=="3"){xxx="/p/data2.html"}
+if(x=="4"){xxx="/p/data3.html"}
+if(x=="5"){xxx="/p/data4.html"}a_to_ve[i].href="http://www.firmware27.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
